@@ -32,7 +32,8 @@ body{
 
 }
 header{
-    background-image: url(/Imgs/black+goldstreaks.webp);
+    background-image: url(black+goldstreaks.webp);
+    background-color: black;
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -202,7 +203,8 @@ header{
 .container{
     width: 100%;
     height: 100%;
-    background-image: url(/Imgs/black+goldstreaks.webp);
+    background-image: url(black+goldstreaks.webp);
+    background-color: black;
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
